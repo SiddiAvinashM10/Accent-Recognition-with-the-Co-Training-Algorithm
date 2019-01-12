@@ -5,7 +5,8 @@ Spencer Riggins (sriggins2@gmu.edu)
 Siddi Avinash Chenmilla (schenmil@gmu.edu)
 
 ################################################################################
-How to run our project:
+
+# How to run our project:
 
 Since there is no direct download link for our data set, we zipped up the folder
 containing our data and placed it in a Google Drive for you to download. The
@@ -30,7 +31,7 @@ the data used to generate the charts, then uncommenting the large block of comme
 code at the bottom of 'graphs.py' and then running 'graphs.py' will use the saved
 data to regenerate the orignal charts and graphs.
 
-An overview of the use of each file:
+# An overview of the use of each file:
 
 'nn.py' was used to train the MFCC and Chroma classifiers on all the data to get
 the theoretical optimum performance of each classifiers
