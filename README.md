@@ -35,10 +35,15 @@ data to regenerate the orignal charts and graphs.
 
 'nn.py' was used to train the MFCC and Chroma classifiers on all the data to get
 the theoretical optimum performance of each classifiers
+
 'graphs.py' contains methods for gnenerating the graphs and figures of our data
+
 'x_val.py' contains methods for cross validation of our MFCC and Chroma classifiers
+
 'FeatureExtraction.py' contains methods for data preprocessing and feature extraction
+
 'Cotrain.py' contains methods for performing co-training
+
 'main.py' contains the overall logic of the project
 
 Note: This code is written in Python 3, and the 'main.py' file takes a number of
