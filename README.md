@@ -1,4 +1,4 @@
-# cs688
+# Accent-Recognition-with-the-Co-Training-Algorithm
 Pattern Recognition Final Project
 
 Spencer Riggins (sriggins2@gmu.edu)
