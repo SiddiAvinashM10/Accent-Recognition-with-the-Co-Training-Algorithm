@@ -48,4 +48,8 @@ the theoretical optimum performance of each classifiers
 
 Note: This code is written in Python 3, and the 'main.py' file takes a number of
 hours to execute fully (between 6-10).
+
+The project is explained in detail in the following paper
+# Accent_Recognition_Paper.pdf 
+
 ################################################################################
