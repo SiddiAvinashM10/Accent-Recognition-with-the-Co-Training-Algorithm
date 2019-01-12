@@ -43,27 +43,3 @@ the theoretical optimum performance of each classifiers
 Note: This code is written in Python 3, and the 'main.py' file takes a number of
 hours to execute fully (between 6-10).
 ################################################################################
-
-
-Division of labor:
-
-Spencer:
-
-FeatureExtraction.py
-Cotrain.py
-main.py
-x_val.py (Data Preparation and Sampling Methods)
-graphs.py (2 of 6 graphing methods)
-nn.py (1/2)
-Presentation (1/2)
-Paper (1/2)
-
-
-Sid:
-
-x_val.py (train_model methods, classifier parameter tuning)
-graphs.py (4 of 6 graphing methods)
-nn.py (1/2)
-convert_WAVtoMFCC.py
-Presentation (1/2)
-Paper (1/2)
